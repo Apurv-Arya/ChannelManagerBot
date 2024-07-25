@@ -24,7 +24,7 @@ Requirements:
 > The below command will install deno, npm and pm2. You do not have to manually install them.
 
 ```
-wget https://raw.githubusercontent.com/xditya/ChannelActionsBot/deno/install.sh && bash install.sh
+wget https://github.com/Apurv-Arya/ChannelManagerBot/deno/install.sh && bash install.sh
 ```
 
 > **Warning**
@@ -38,12 +38,12 @@ wget https://raw.githubusercontent.com/xditya/ChannelActionsBot/deno/install.sh 
 
 ## Deno Deploy
 
-[![Deploy Now!](https://img.shields.io/badge/Deploy%20Now-Deno%20Deploy-blue?style=for-the-badge&logo=deno)](https://dash.deno.com/new?url=https://raw.githubusercontent.com/xditya/ChannelActionsBot/deno/main.ts&env=BOT_TOKEN,OWNERS,MONGO_URL)
+[![Deploy Now!](https://img.shields.io/badge/Deploy%20Now-Deno%20Deploy-blue?style=for-the-badge&logo=deno)](https://dash.deno.com/new?url=https://github.com/Apurv-Arya/ChannelManagerBot/deno/main.ts&env=BOT_TOKEN,OWNERS,MONGO_URL)
 
 > [Watch the video tutorial on deploying!](https://youtu.be/hjxfJtk5ZWs)
 
 1. Open [deno deploy](https://dash.deno.com/), create a new project.
-2. [Fork](https://github.com/xditya/ChannelActionsBot/fork) the `deno` branch of
+2. [Fork](https://github.com/Apurv-Arya/ChannelManagerBot) the `deno` branch of
    this repo.
 3. Search for this repo on deno deploy, set branch as deno, set file as
    `main.ts`
