@@ -42,5 +42,5 @@ welcome-text = Enter the welcome message you want the new Approved Members to re
 
 provide-msg = Please provide a message!
 
-welcome-set = Welcome message set to:
+welcome-set = Welcome Message set to:
     {$msg}
