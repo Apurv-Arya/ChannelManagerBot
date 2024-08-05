@@ -11,7 +11,7 @@ apt install unzip npm -y
 curl -fsSL https://deno.land/x/install/install.sh | sh
 
 echo "Cloning the repository.."
-git clone https://github.com/xditya/ChannelActionsBot
+git clone https://github.com/Apurv-Arya/ChannelManager_Bot
 cd ChannelActionsBot
 
 echo "Making a .env file.."
