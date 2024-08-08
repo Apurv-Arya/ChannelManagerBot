@@ -2,7 +2,7 @@ start-msg = Hey There, {$user}!
     <b>I'm Auto Join Approver Bot</b>, I can Automatically Accept Or Reject New Members Join Request For You.
 
     <i>I can</i>:
-    - <i>Auto approve New join Requests</i>
+    - <i>Auto Approve New Join Requests</i>
     - <i>Auto Decline New Join Requests.</i>
 
     <code>Click The Button Below To Know How To Use Me!</code>
