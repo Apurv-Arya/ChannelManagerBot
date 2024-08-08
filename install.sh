@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "Channel Actions Bot - Installer."
+echo "Channel Manager Bot - Installer."
 echo "This script will install the bot and all its dependencies, and use pm2 to create a process to run the bot."
 
 echo "Updating system.."
@@ -11,8 +11,8 @@ apt install unzip npm -y
 curl -fsSL https://deno.land/x/install/install.sh | sh
 
 echo "Cloning the repository.."
-git clone https://github.com/Apurv-Arya/ChannelManager_Bot
-cd ChannelActionsBot
+git clone https://github.com/Apurv-Arya/ChannelManagerBot
+cd ChannelManagerBot
 
 echo "Making a .env file.."
 read -p "Enter your telegram bot token: " token
