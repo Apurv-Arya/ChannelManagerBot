@@ -11,7 +11,9 @@ Can be found on telegram as
 
 ## Local Hosting
 
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=7b7d6a915392&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+git clone https://github.com/Apurv-Arya/ChannelManagerBot -b deno
+-- Make a .env file as in .env.sample ---
+deno task start
 
 Requirements:
 
